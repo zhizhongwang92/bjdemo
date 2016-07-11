@@ -1,4 +1,7 @@
 <?php
+/**
+* array wzj
+*/
 $contact  = array(
 	'ID' =>1 , 
 	'姓名' =>'吴莫' , 
